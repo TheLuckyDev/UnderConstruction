@@ -41,8 +41,8 @@ jQuery(document).ready(function($) {
         
         targetDate: {
             'day': 1,
-            'month': 1,
-            'year': 2020,
+            'month': 5,
+            'year': 2021,
             'hour': 0,
             'min': 0,
             'sec': 0
