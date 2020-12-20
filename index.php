@@ -1,4 +1,6 @@
-<html lang="en">
+<? php
+
+echo '<html lang="en">
 <head>
     <meta charset="utf-8">
 
@@ -130,6 +132,8 @@
 <!-- Custom JavaScript Functions -->
 <script type="text/javascript" src="assets/js/jquery.ajaxchimp.min.js"></script>
 </body>
-</html>
+</html>'
+
+?>
 
 
